@@ -1,9 +1,9 @@
 import React from 'react'
 
-const Subscription = () => {
+const Subcription = () => {
   return (
-    <div>Subscription</div>
+    <div>Subcription</div>
   )
 }
 
-export default Subscription
+export default Subcription
